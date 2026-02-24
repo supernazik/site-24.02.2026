@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Футболка",
+    "price": 20,
+    "category": "Одяг",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Штани",
+    "price": 35,
+    "category": "Одяг",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Кепка",
+    "price": 15,
+    "category": "Аксесуари",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Кросівки",
+    "price": 60,
+    "category": "Взуття",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop"
+  }
+]
